@@ -1,0 +1,7 @@
+Reward|Quantity|Point
+3D2N Genting Ferry Trip|5|100000
+YAY YAY Bowl Set|50|5000
+YAY YAY Thermoflask|50|3000
+UTAR T-Shirt|100|2000
+RM5 Foodpanda Voucher|1000|300
+Mystery Keychain(?)|5000|150

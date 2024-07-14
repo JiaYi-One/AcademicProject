@@ -1,0 +1,7 @@
+Staff|Password
+Akira Tanaka|abcde123
+Lee Jung Kok|123abcde
+Ng Mei Chen|a1b2c3de
+Minh Nguyen|abc1d2e3
+Jung Soo Kim|edcba321
+Ai Ling|ppapppap1234
